@@ -1,0 +1,24 @@
+.mytbl{
+    width: 60%;
+    align-self: center;
+}
+td{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  } 
+  #back{
+      position:absolute;
+      box-sizing:content-box;
+      width: 100px;
+      height: 50px;
+  }
+  .btn{
+      display:flex;
+      justify-content: center;
+        
+  }
+  #frm{
+      display: flexbox;
+      text-align:center;
+  }

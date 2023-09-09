@@ -1,0 +1,14 @@
+[
+    {"type":"header","version":"5.0.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+    {"type":"database","name":"testtable"},
+    {"type":"table","name":"comment","database":"testtable","data":
+    [
+    
+    ]
+    }
+    ,{"type":"table","name":"users","database":"testtable","data":
+    [
+    {"id":"1","name":"Anton","email":"imbareaverdrop@mail.ru","password":"root","created_at":"2023-09-02 15:06:58","updated_at":"2023-09-02 15:07:08"}
+    ]
+    }
+    ]
